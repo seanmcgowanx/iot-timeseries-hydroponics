@@ -1,0 +1,21 @@
+name: hydroponics-iot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - jupyterlab
+  - ipykernel
+  - pytables
+  - tqdm
+  - joblib
+  - pip
+  - pip:
+      - tensorflow>=2.12
