@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+tqdm
+joblib
+
+tensorflow==2.12.*
+
+jupyterlab
+ipykernel
