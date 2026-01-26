@@ -25,6 +25,30 @@ Specifically, the project aims to:
 `├── README.md`<br>
 `└── LICENSE`
 
+## Environment Setup
+
+Primary environment management uses Conda (`environment.yml`).
+
+A `requirements.txt` file is also provided for pip-based setups such as Google Colab or quick local testing.
+
+### Setup Instructions
+Clone the repository
+```
+git clone https://github.com/seanmcgowanx/iot-timeseries-hydroponics.git
+cd iot-timeseries-hydroponics
+```
+Create the Conda environment
+```
+conda env create -f environment.yml
+```
+Activate the environment
+```
+conda activate hydroponics-iot
+```
+For pip-only environments such as Google Colab:
+```
+pip install -r requirements.txt
+```
 ## Authors
 - Sean McGowan
 - Thiago Alvares
