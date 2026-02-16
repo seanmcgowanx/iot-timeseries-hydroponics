@@ -21,7 +21,7 @@ Specifically, the project aims to:
 `├── data/                # Data files`<br>
 `├── notebooks/           # Exploratory analysis and model development notebooks`<br>
 `├── models/              # Machine learning and deep learning implementations`<br>
-`├── figures/      # Generated plots and figures`<br>
+`├── figures/             # Generated plots and figures`<br>
 `├── README.md`<br>
 `└── LICENSE`
 
