@@ -12,7 +12,7 @@ This project uses real IoT sensor data from an experimental hydroponics platform
 Specifically, the project aims to:
 - Design a complete theoretical IoT system architecture
 - Perform exploratory data analysis and preprocessing on raw sensor data
-- Apply traditional machine learning and deep learning methods to multivariate time series data
+- Apply ordinary and deep learning methods to multivariate time series data
 - Generate predictive insights related to water quality behavior
 - Communicate results through clear visualizations and a dashboard
 
